@@ -1,0 +1,5 @@
+- Total playlist videos: 52
+- ML-related technical videos: 15
+- Non-ML videos: 37
+- Distinct technologies: 6
+- GitHub repositories documented: 6
