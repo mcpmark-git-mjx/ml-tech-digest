@@ -1,1 +1,11 @@
-Hello World!
+# ml-tech-digest
+
+A digest of the machine-learning technologies covered in the office ML
+reading-group playlist.
+
+The catalog lives in [ml_tech.md](ml_tech.md). It lists each technology, the
+original GitHub repository of the open-source project behind it, and a short
+summary of what that project does.
+
+Source playlist:
+https://www.youtube.com/playlist?list=PlyzTA8cetPdHtlGw1X8Kt7Ea4bd27ApR7
