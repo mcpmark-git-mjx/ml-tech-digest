@@ -1,1 +1,10 @@
-Hello World!
+# ML Tech Digest
+
+Archive of the team's shared machine-learning YouTube playlist
+(https://www.youtube.com/playlist?list=PLyzTA8cetPdHtlGw1X8Kt7Ea4bd27ApR7).
+
+Contents:
+
+- `video_inventory.md` - every video in the playlist, classified as ML / non-ML
+- `ml_tech.md` - the distinct ML technologies that have an official GitHub repository
+- `summary.md` - the headline numbers
