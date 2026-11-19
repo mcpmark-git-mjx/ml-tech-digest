@@ -1,0 +1,16 @@
+name: enable-issues
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  enable:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enable Issues and create the digest checklist issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh repo edit "${{ github.repository }}" --enable-issues
+          gh issue create --repo "${{ github.repository }}" --title "Digest checklist" --body $'- `video_inventory.md`\n- `ml_tech.md`\n- `summary.md`\n\ntechnologies documented: 6'
