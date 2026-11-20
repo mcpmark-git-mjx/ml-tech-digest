@@ -1,8 +1,9 @@
-| Technology | Repository URL | Main Functions | Source Video |
-| --- | --- | --- | --- |
-| Claude Code | https://github.com/anthropics/claude-code | Anthropic's agentic coding tool that lives in the terminal, understands a codebase, and edits files, runs commands and handles git workflows from natural language. | "Claude Code best practices | Code w/ Claude" |
-| Codex CLI | https://github.com/openai/codex | OpenAI's open-source command-line coding agent for terminal workflows; it can read, edit and run code to complete development tasks. | "Gemini CLI vs Claude Code vs Codex Compared! Should You Use an AI CLI?" |
-| FlashAttention | https://github.com/Dao-AILab/flash-attention | Fast and memory-efficient exact attention kernels for transformers, cutting the memory and compute cost of attention in LLM training and inference. | "MedAI #54: FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | Tri Dao" |
-| Gemini CLI | https://github.com/google-gemini/gemini-cli | Google's open-source AI agent that runs in the command line, bringing Gemini models into the terminal for code understanding, generation and automation. | "Gemini CLI vs Claude Code vs Codex Compared! Should You Use an AI CLI?" |
-| OpenHands | https://github.com/OpenHands/OpenHands | An open-source autonomous software engineering agent platform that writes code, runs commands and browses the web to complete development tasks. | "OpenHands + Devstral = A Fully Local Coding Agent" |
-| Qwen3-Coder | https://github.com/QwenLM/Qwen3-Coder | An open-weight code LLM and agentic coding model with tool use, supporting long contexts and integration with coding agents such as Qwen Code and Claude Code. | "Alibaba is coming for Claude..." |
+| Technology | Repository URL | Main Functions |
+| --- | --- | --- |
+| OpenHands | https://github.com/All-Hands-AI/OpenHands | Open-source platform for autonomous AI software-development agents |
+| Claude Code | https://github.com/anthropics/claude-code | Anthropic's agentic coding tool for the terminal and IDE |
+| FlashAttention | https://github.com/Dao-AILab/flash-attention | Fast, memory-efficient exact attention kernels for transformer training and inference |
+| Gemini CLI | https://github.com/google-gemini/gemini-cli | Google's open-source terminal AI agent powered by Gemini models |
+| Codex CLI | https://github.com/openai/codex | OpenAI's open-source command-line coding agent |
+| Qwen3-Coder | https://github.com/QwenLM/Qwen3-Coder | Open-weight agentic coding LLM for code generation and tool use |
+| o1 Reasoning | https://github.com/srush/awesome-o1 | Curated bibliography and tutorials for OpenAI o1-style reasoning and test-time scaling |
