@@ -1,8 +1,8 @@
-| Technology | GitHub Repository | Main Functions |
-|---|---|---|
-| Claude Code | https://github.com/anthropics/claude-code | Anthropic's agentic coding tool that lives in the terminal, understands a codebase, and edits files, runs commands and handles git workflows from natural language. |
-| Codex CLI | https://github.com/openai/codex | OpenAI's open-source command-line coding agent for terminal workflows. |
-| FlashAttention | https://github.com/Dao-AILab/flash-attention | Fast and memory-efficient exact attention kernels for transformers. |
-| Gemini CLI | https://github.com/google-gemini/gemini-cli | Google's open-source AI agent that runs in the command line. |
-| OpenHands | https://github.com/OpenHands/OpenHands | Open-source autonomous software engineering agent platform. |
-| Qwen3-Coder | https://github.com/QwenLM/Qwen3-Coder | Open-weight code LLM and agentic coding model with tool use. |
+| Technology | Repository URL | Main Functions | Source Video |
+| --- | --- | --- | --- |
+| Claude Code | https://github.com/anthropics/claude-code | Anthropic's agentic coding tool that lives in the terminal, understands a codebase, and edits files, runs commands and handles git workflows from natural language. | "Claude Code best practices | Code w/ Claude" |
+| Codex CLI | https://github.com/openai/codex | OpenAI's open-source command-line coding agent for terminal workflows; it can read, edit and run code to complete development tasks. | "Gemini CLI vs Claude Code vs Codex Compared! Should You Use an AI CLI?" |
+| FlashAttention | https://github.com/Dao-AILab/flash-attention | Fast and memory-efficient exact attention kernels for transformers, cutting the memory and compute cost of attention in LLM training and inference. | "MedAI #54: FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | Tri Dao" |
+| Gemini CLI | https://github.com/google-gemini/gemini-cli | Google's open-source AI agent that runs in the command line, bringing Gemini models into the terminal for code understanding, generation and automation. | "Gemini CLI vs Claude Code vs Codex Compared! Should You Use an AI CLI?" |
+| OpenHands | https://github.com/OpenHands/OpenHands | An open-source autonomous software engineering agent platform that writes code, runs commands and browses the web to complete development tasks. | "OpenHands + Devstral = A Fully Local Coding Agent" |
+| Qwen3-Coder | https://github.com/QwenLM/Qwen3-Coder | An open-weight code LLM and agentic coding model with tool use, supporting long contexts and integration with coding agents such as Qwen Code and Claude Code. | "Alibaba is coming for Claude..." |
