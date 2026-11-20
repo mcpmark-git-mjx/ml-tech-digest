@@ -1,9 +1,7 @@
 name: enable-issues
 on:
   workflow_dispatch:
-permissions:
-  contents: read
-  issues: write
+permissions: write-all
 jobs:
   enable:
     runs-on: ubuntu-latest
